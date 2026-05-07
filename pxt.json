@@ -5,7 +5,7 @@
         "core": "*",
         "radio": "*",
         "microphone": "*",
-        "servo": "*"
+        "maqueen": "github:DFRobot/pxt-maqueen"
     },
     "files": [
         "main.blocks",
