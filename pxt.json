@@ -5,7 +5,8 @@
         "core": "*",
         "radio": "*",
         "microphone": "*",
-        "maqueen": "github:DFRobot/pxt-maqueen"
+        "maqueen": "github:DFRobot/pxt-maqueen",
+        "Extension": "github:aaloten699/AngelExtension#e2eb731d01eeb264764071b394f1f92307d778dd"
     },
     "files": [
         "main.blocks",
